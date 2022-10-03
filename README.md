@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Pâmella</h1>
 <h3 align="center">Ingressando no mundo da tecnologia e amando cada aprendizagem.</h3>
 
-- 🔭 Estou trabalhando em projetos autônomos para adquirir experiências, como por exemplo: [PetShop](https://github.com/PamellaBiage/projeto-petShop)
+- 🔭 Estou trabalhando em projetos autônomos para adquirir experiências, como por exemplo: [Sistema de Agendamento](https://github.com/PamellaBiage/sistemaDeAgendamento)
 
 - 🌱 Atualmente estou aprendendo **HTML5,CSS3, Bootstrap, Java**
 
