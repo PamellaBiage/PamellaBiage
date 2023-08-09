@@ -3,7 +3,7 @@
 
 - 🔭 Estou trabalhando em projetos autônomos para adquirir experiências, como por exemplo: [Sistema de Agendamento](https://github.com/PamellaBiage/sistemaDeAgendamento)
 
-- 🌱 Atualmente estou aprendendo **HTML5,CSS3, Bootstrap, Java**
+- 🌱 Atualmente estou aprendendo **Criação de API Rest utilizando: Spring Boot, Angular PrimeNg e realizacão de integração com o Banco de Dados MySql**
 
 - 💬 Me pergunte sobre: **Lógica de programação; Programação orientada a objetos; Banco de dados (Mysql); HTML 5; CSS3; Bootstrap; Bizagi; Javascript; NodeJS; Noções de Java 8; GitHub; VSCode;**
 
